@@ -5,4 +5,4 @@ File list:<br>
 2. style.css <br>
 3. main.js <br>
 4. Data base 6 motors and buttons. <br>
-5. Database images.<br>
+5. Interface image and database images.<br>
