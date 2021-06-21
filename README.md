@@ -4,5 +4,5 @@ File list:<br>
 1. index.php <br>
 2. style.css <br>
 3. main.js <br>
-4. Data base 6 motors and buttons. <br>
-5. Interface image and database images.<br>
+4. Database 6 motors and buttons. <br>
+5. Interface image and Database images.<br>
